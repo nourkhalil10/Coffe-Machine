@@ -1,2 +1,2 @@
-# Coffe-Machine
+# Coffee-Machine
  
